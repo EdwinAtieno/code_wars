@@ -23,3 +23,4 @@ while Fletter not in word[0]:
        break
 
 
+# to create loop which will stop when one inputs # as the first letter in a string
