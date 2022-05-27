@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto auto;
@@ -41,8 +41,7 @@ td, th {
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
-=======
+  background-color: #dddddd;}
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto auto;
