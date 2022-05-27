@@ -80,7 +80,11 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+<<<<<<< HEAD
 settings/
+=======
+
+>>>>>>> 64402f2f3bfe1ba122408059741cc3357242e736
 # pyenv
 .python-version
 
