@@ -2,7 +2,11 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
+<<<<<<< HEAD
+/../../../../../../:\Users\eddym\PycharmProjects\smooth\.idea/dataSources/
+=======
 /../../../../../../:\Users\eddym\PycharmProjects\coderwars\.idea/dataSources/
+>>>>>>> 64402f2f3bfe1ba122408059741cc3357242e736
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/

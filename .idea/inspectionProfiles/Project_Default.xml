@@ -12,6 +12,20 @@
         </value>
       </option>
     </inspection_tool>
+<<<<<<< HEAD
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="href" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+=======
+>>>>>>> 64402f2f3bfe1ba122408059741cc3357242e736
     <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ourVersions">
         <value>
@@ -25,7 +39,11 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
+<<<<<<< HEAD
+          <list size="25">
+=======
           <list size="24">
+>>>>>>> 64402f2f3bfe1ba122408059741cc3357242e736
             <item index="0" class="java.lang.String" itemvalue="psycopg2" />
             <item index="1" class="java.lang.String" itemvalue="Django" />
             <item index="2" class="java.lang.String" itemvalue="PyJWT" />
@@ -50,6 +68,10 @@
             <item index="21" class="java.lang.String" itemvalue="pyparsing" />
             <item index="22" class="java.lang.String" itemvalue="idna" />
             <item index="23" class="java.lang.String" itemvalue="python-openid" />
+<<<<<<< HEAD
+            <item index="24" class="java.lang.String" itemvalue="tweepy" />
+=======
+>>>>>>> 64402f2f3bfe1ba122408059741cc3357242e736
           </list>
         </value>
       </option>

@@ -1,3 +1,47 @@
+HEAD
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 5px;
+  padding: 10px;
+}
+.grid-container >button {
+  background-color: darkblue;
+  color:white;
+  border: 1px solid black;
+  text-align: center;
+  font-size: 15px;
+}
+h4{
+  text-align:center;
+  background-color: dimgray;
+  color:white;
+}
+p{
+  text-align: center;
+}
+div{
+  margin: auto;
+  width: 10%;
+  display:block;
+  border: 5px ;
+  padding: 10px;
+}
+table {
+  font-family: arial, sans-serif;
+  border: 1px solid green;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid;
+  text-align: center;
+  spacing: 5px;
+  padding: 5px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;}
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto auto;
