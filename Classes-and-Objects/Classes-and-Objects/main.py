@@ -3,10 +3,12 @@ class Student:
     def __init__(self, name,age,tracks,score):
         self.name= name
         self.age = age
-        self.track = track
+        self.track = tracks
         self.score= score
+
     def change_name(self, name):
-        pass
+
+        return self.name
     def change_age(self):
         pass
     def add_track(self):
