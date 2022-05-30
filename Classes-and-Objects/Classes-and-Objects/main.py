@@ -6,7 +6,8 @@ class Student:
         self.track = tracks
         self.score= score
 
-    def change_name(self, name):
+    def change_name(self):
+
 
         return self.name
     def change_age(self):
